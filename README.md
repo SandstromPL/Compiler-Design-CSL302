@@ -1,6 +1,6 @@
 # CSL304: Compiler Design - Object Oriented Language Compiler
 
-**Course:** CSL304: Compiler Design  
+**Course:** CSL302: Compiler Design  
 * **Paritosh Lahre** (12341550)
 
 ---
